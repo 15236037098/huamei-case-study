@@ -88,7 +88,7 @@
 
 | 前台首屏 | 前台对话 |
 | --- | --- |
-| ![前台首屏](assets/screens/01-advisor-hero.png) | ![前台对话](assets/screens/02-advisor-chat.png) |
+| ![前台首屏](assets/screens/01-advisor-hero.jpg) | ![前台对话](assets/screens/02-advisor-chat.png) |
 
 | 今日工作台 | 会话与接待 |
 | --- | --- |
@@ -99,7 +99,7 @@
 | ![客户与会员](assets/screens/06-admin-customers.png) | ![知识与合规](assets/screens/07-admin-knowledge.png) |
 
 <p align="center">
-  <img src="assets/screens/03-advisor-mobile.png" width="300" alt="移动端">
+  <img src="assets/screens/03-advisor-mobile.jpg" width="300" alt="移动端">
 </p>
 
 ## 目录
