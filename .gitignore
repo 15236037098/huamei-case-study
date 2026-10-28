@@ -1,0 +1,12 @@
+# 本地采集工具、录屏帧与依赖，不随案例仓库发布
+tools/
+.tmp/
+node_modules/
+
+# 早期自动生成的单页作品集（信息已过期，由 README 取代）
+portfolio.html
+_shared/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
