@@ -65,6 +65,14 @@
 
 > 细节见 [docs/04-handover-loop.md](docs/04-handover-loop.md)
 
+## 代码节选
+
+公开仓收录 A / B 两条线的 **19 个核心模块（2,035 行）**，脱敏后按原目录结构存放：意图识别的四段式校验、回合规划的槽位证据约束、分段流式协议、联系方式的确定性识别、接管状态机。
+
+C 线（知识发布 / GraphRAG / 岗位权限）、共享依赖、配置与数据**没有**收录，所以这份代码只能读、不能跑。
+
+> [code/README.md](code/README.md)
+
 ## 系统一览
 
 ![架构图](assets/architecture.svg)
@@ -110,6 +118,7 @@ docs/02-intent-routing.md   意图识别与任务推进
 docs/03-grounded-answer.md  证据约束、引用与拒答
 docs/04-handover-loop.md    流式回答与人工接管闭环
 docs/05-engineering-quality.md 测试分层、门禁与性能数据
+code/                       A/B 线核心模块节选（只读，不可直接运行）
 ```
 
 ## 运行方式
